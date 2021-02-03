@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KDPgR1TdOzP10zQr4Xcbc1YNPf26vTrZ5TTm7Mi1+msPYQ5LIUaCyysSeDd2Evf3z1aLbbUiBKUajmqRaBpJ1g==",
+  "dgSpecHash": "i65G2CSFxRJFLujr+OxTdksOeHpAi0nE8Hlv/5t+HdhrmUagFLxr/jkXwCHnnZkN1sTCFswzlvetlGbjHFitHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stage\\source\\repos\\testAPI\\testAPI\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Stage\\source\\repos\\ApiTest\\testAPI\\API\\API\\API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
